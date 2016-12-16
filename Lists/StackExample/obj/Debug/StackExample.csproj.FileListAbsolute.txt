@@ -1,0 +1,10 @@
+D:\Files\Data Structures and Algorithms\StackExample\StackExample\bin\Debug\StackExample.exe.config
+D:\Files\Data Structures and Algorithms\StackExample\StackExample\bin\Debug\StackExample.exe
+D:\Files\Data Structures and Algorithms\StackExample\StackExample\bin\Debug\StackExample.pdb
+D:\Files\Data Structures and Algorithms\StackExample\StackExample\obj\Debug\StackExample.csprojResolveAssemblyReference.cache
+D:\Files\Data Structures and Algorithms\StackExample\StackExample\obj\Debug\StackExample.exe
+D:\Files\Data Structures and Algorithms\StackExample\StackExample\obj\Debug\StackExample.pdb
+E:\Files\Data Structures and Algorithms\StackExample\StackExample\bin\Debug\StackExample.exe.config
+E:\Files\Data Structures and Algorithms\StackExample\StackExample\obj\Debug\StackExample.exe
+E:\Files\Data Structures and Algorithms\StackExample\StackExample\obj\Debug\StackExample.pdb
+F:\Files\Data Structures and Algorithms\Lists\StackExample\bin\Debug\Linked Lists.exe.config

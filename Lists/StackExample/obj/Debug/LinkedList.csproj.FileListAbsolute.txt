@@ -1,0 +1,1 @@
+F:\Files\Data Structures and Algorithms\Lists\StackExample\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
